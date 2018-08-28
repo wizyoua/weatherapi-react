@@ -1,6 +1,4 @@
-# Project Title
-
-Weather API using ReactJS and React Router
+# Weather API using ReactJS and React Router
 
 ## Getting Started
 
